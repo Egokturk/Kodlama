@@ -3,7 +3,7 @@ Kodlamayi böyle ögrenebilirsin
 Bu sana kodlamayi örenmene yardimci olacak bir link https://womaneng.com/10-adimda-kodlamayi-ogrenme/
 
 BUda sana script yazmayi öretecek
-EgZjaHJvbWUqCAgBEAAYFhgeMgYIABBFGDkyCAgBEAAYFhgeMggIAhAAGBYYHjIICAMQABgWGB4yCAgEEAAYFhgeMggIBRAAGBYYHjIICAYQABgWGB4yCAgHEAAYFhgeMggICBAAGBYYHjIICAkQABgWGB7SAQoxNjY5M2owajE1qAIAsAIA
+https://www.google.com/search?q=how+to+create+scripts+in+pc&sca_esv=598417864&rlz=1CASACE_enAT1033AT1033&ei=ayWkZcvpFau3i-gPtJG1iAw&ved=0ahUKEwiLy-Xfvt2DAxWr2wIHHbRIDcEQ4dUDCBA&uact=5&oq=how+to+create+scripts+in+pc&gs_lp=Egxnd3Mtd2l6LXNlcnAiG2hvdyB0byBjcmVhdGUgc2NyaXB0cyBpbiBwYzIFECEYoAEyBRAhGKABMgUQIRigAUjAM1CHEFj3LnABeACQAQCYAbIBoAGQCKoBAzAuN7gBA8gBAPgBAcICChAAGEcY1gQYsAPCAgcQABiABBgTwgIIEAAYFhgeGBPiAwQYACBBiAYBkAYI&sclient=gws-wiz-serp&safe=active&ssui=on#fpstate=ive&vld=cid:11bc0f38,vid:lYqaldXFm1U,st:0
 
 BU sana script yazmakla gereken bilgileri vericek    https://www.ionos.at/digitalguide/server/konfiguration/powershell-script-erstellen/
 
