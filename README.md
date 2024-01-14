@@ -1,0 +1,2 @@
+# Kodlama
+Kodlamayi böyle ögrenebilirsin
